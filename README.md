@@ -35,79 +35,68 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 
----
 
+---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://thewebpal.com/create-post/" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Blog_Post_Generator-React_|_Firebase_|_Gemini_API-00E5FF?style=for-the-badge" alt="AI Blog Generator"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" align="center" valign="top">
+      <h3>🧠 <a href="https://thewebpal.com/create-post/">AI Blog Post Generator</a></h3>
+      <p>
+        <b>AI-powered content creation tool</b> built with <b>React, Firebase, and Gemini API</b>, helping bloggers generate SEO-friendly articles and images instantly.
+      </p>
+      <p>🛠 React · Firebase · Gemini API · Cloudinary</p>
+      <p>
+        <a href="https://thewebpal.com/create-post/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
+        <a href="https://github.com/skmasum98/ai-blog-post-generator" target="_blank"><img src="https://img.shields.io/badge/-💻_Code-181717?style=for-the-badge&logo=github"></a>
+      </p>
+    </td>
 
-### 🧠 [AI Blog Post Generator](https://thewebpal.com/create-post/)
-An **AI-powered content creation tool** built with **React, Firebase, and Gemini API**, helping bloggers generate SEO-friendly blog posts and featured images instantly.  
-💡 **Features:** AI text & image generation, auto-saving drafts, post publishing system  
-🛠 **Tech Stack:** React · Firebase · Gemini API · Cloudinary  
+    <!-- Project 2 -->
+    <td width="50%" align="center" valign="top">
+      <h3>🎓 <a href="https://github.com/skmasum98/school-admin-dashboard">School Admin Dashboard</a></h3>
+      <p>
+        A complete <b>school management dashboard</b> to manage teachers, staff, exams, and notices efficiently.
+      </p>
+      <p>🛠 React · Firebase · Cloudinary</p>
+      <p>
+        <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank"><img src="https://img.shields.io/badge/-💻_Code-181717?style=for-the-badge&logo=github"></a>
+      </p>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="https://thewebpal.com/create-post/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
-  <a href="https://github.com/skmasum98/ai-blog-post-generator" target="_blank"><img src="https://img.shields.io/badge/-💻_Source_Code-181717?style=for-the-badge&logo=github"></a>
-</p>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" align="center" valign="top">
+      <h3>🌐 <a href="https://thewebpal.com/">The Web Pal – Portfolio</a></h3>
+      <p>
+        My personal <b>developer portfolio site</b> built with <b>Astro + React</b>, showcasing projects, blogs, and tools.
+      </p>
+      <p>🛠 Astro · React · Firebase · TailwindCSS</p>
+      <p>
+        <a href="https://thewebpal.com" target="_blank"><img src="https://img.shields.io/badge/-🌐_Website-0A66C2?style=for-the-badge"></a>
+      </p>
+    </td>
 
----
-
-<p align="center">
-  <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/School_Admin_Dashboard-React_|_Firebase_|_Cloudinary-7C3AED?style=for-the-badge" alt="School Admin Dashboard"/>
-  </a>
-</p>
-
-### 🎓 [School Admin Dashboard](https://github.com/skmasum98/school-admin-dashboard)
-A full-featured **school management dashboard** for managing teachers, staff, exam routines, and gallery content.  
-📦 **Modules:** Teachers · Staff · Governing Body · Exam Results · Photo Gallery  
-🛠 **Tech Stack:** React · Firebase · Cloudinary  
-
-<p align="center">
-  <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank"><img src="https://img.shields.io/badge/-💻_View_Project-181717?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://thewebpal.com" target="_blank">
-    <img src="https://img.shields.io/badge/The_Web_Pal-Portfolio_Site_|_Astro_|_React-00BFA6?style=for-the-badge" alt="Portfolio Site"/>
-  </a>
-</p>
-
-### 🌐 [The Web Pal – Portfolio](https://thewebpal.com)
-My personal **developer portfolio site**, showcasing projects, blogs, and tools — built for performance and SEO with Astro and React.  
-🛠 **Tech Stack:** Astro · React · Firebase · TailwindCSS  
-✨ **Features:** Blog system · AI tool integration · Responsive design  
-
-<p align="center">
-  <a href="https://thewebpal.com" target="_blank"><img src="https://img.shields.io/badge/-🌐_Visit_Website-0A66C2?style=for-the-badge"></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/skmasum98/photo-gallery" target="_blank">
-    <img src="https://img.shields.io/badge/Dynamic_Photo_Gallery-React_|_Firebase_|_Cloudinary-FF4081?style=for-the-badge" alt="Photo Gallery"/>
-  </a>
-</p>
-
-### 🖼️ [Dynamic Photo Gallery](https://github.com/skmasum98/photo-gallery)
-A **dynamic album-wise gallery** with full admin functionality to upload, edit, and delete photos using Firebase and Cloudinary.  
-📷 **Features:** Album management · Multi-image upload · Responsive grid view  
-🛠 **Tech Stack:** React · Firebase · Cloudinary  
-
-<p align="center">
-  <a href="https://github.com/skmasum98/photo-gallery" target="_blank"><img src="https://img.shields.io/badge/-💻_View_Code-181717?style=for-the-badge&logo=github"></a>
-</p>
+    <!-- Project 4 -->
+    <td width="50%" align="center" valign="top">
+      <h3>🖼️ <a href="https://github.com/skmasum98/photo-gallery">Dynamic Photo Gallery</a></h3>
+      <p>
+        A <b>dynamic album-wise gallery</b> with admin functionality to upload, edit, and delete photos using Firebase and Cloudinary.
+      </p>
+      <p>🛠 React · Firebase · Cloudinary</p>
+      <p>
+        <a href="https://github.com/skmasum98/photo-gallery" target="_blank"><img src="https://img.shields.io/badge/-💻_Code-181717?style=for-the-badge&logo=github"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 
 ### 📈 GitHub Stats
