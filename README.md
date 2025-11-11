@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaikh Al Masum</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN | React | Next.js | Astro | WordPress | Firebase | Cloudinary</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=60&lines=Full+Stack+Web+Developer;React+•+Next.js+•+Astro+•+WordPress;Firebase+•+Cloudinary+•+MERN" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3600&pause=1200&color=FFB86B&center=true&width=760&height=70&lines=Hi,+I'm+Shaikh+Al+Masum;Full+Stack+Developer+|+MERN;Building+modern+web+apps" />
+
 </p>
 
 
