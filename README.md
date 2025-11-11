@@ -7,7 +7,7 @@
 I'm a passionate **Full Stack Web Developer (MERN)** who loves creating modern, scalable, and user-friendly web applications.  
 I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary**, with experience in both **frontend** and **backend** development.  
 
-🌱 Currently exploring **AI-powered web tools** and **Next.js 15**.  
+🌱 Currently exploring **AI-powered web tools** and **Next.js 16**.  
 💡 Always eager to learn new technologies and contribute to open-source.  
 
 ---
@@ -39,28 +39,30 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
 ---
 
 ## 🚀 Featured Projects
+---
 
 <p align="center">
-  <a href="https://thewebpal.com/create-post/" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Blog_Post_Generator-React_|_Firebase_|_Gemini_API-00E5FF?style=for-the-badge" alt="AI Blog Generator"/>
+  <a href="https://ic-blog.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FULL_STACK_BLOG_APPLICATION-Next.js_16_•_Node.js_•_Express_•_MongoDB_•_Cloudinary-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack Blog Application"/>
   </a>
 </p>
 
-### 🧠 [AI Blog Post Generator](https://thewebpal.com/create-post/)
-An **AI-powered content creation tool** built with **React, Firebase, and Gemini API**, helping bloggers generate SEO-friendly blog posts and featured images instantly.  
-💡 **Features:** AI text & image generation, auto-saving drafts, post publishing system  
-🛠 **Tech Stack:** React · Firebase · Gemini API · Cloudinary  
+### 🧠 [Full Stack Blog Application](https://ic-blog.onrender.com/)
+A **modern full-stack blogging platform** built with **Next.js 16, Node.js, Express, MongoDB, and Cloudinary**, featuring secure authentication, image uploads, and real-time content management.  
+💡 **Features:** User authentication, post management, image handling, and responsive UI  
+🛠 **Tech Stack:** Next.js · Node.js · Express · MongoDB · Cloudinary  
 
 <p align="center">
-  <a href="https://thewebpal.com/create-post/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
-  <a href="https://github.com/skmasum98/ai-blog-post-generator" target="_blank"><img src="https://img.shields.io/badge/-💻_Source_Code-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://ic-blog.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
+  <a href="https://github.com/skmasum98/fullstack-blog-app" target="_blank"><img src="https://img.shields.io/badge/-💻_Source_Code-181717?style=for-the-badge&logo=github"></a>
 </p>
+
 
 ---
 
 <p align="center">
-  <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/School_Admin_Dashboard-React_|_Firebase_|_Cloudinary-7C3AED?style=for-the-badge" alt="School Admin Dashboard"/>
+  <a href="https://madhudia.edu.bd/" target="_blank">
+    <img src="https://img.shields.io/badge/School_Management_System-React_|_Firebase_|_Cloudinary-7C3AED?style=for-the-badge" alt="School Admin Dashboard"/>
   </a>
 </p>
 
@@ -70,7 +72,7 @@ A full-featured **school management System** for managing teachers, staff, exam 
 🛠 **Tech Stack:** React · Firebase · Cloudinary  
 
 <p align="center">
-  <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank"><img src="https://img.shields.io/badge/-💻_View_Project-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://madhudia.edu.bd/" target="_blank"><img src="https://img.shields.io/badge/-🌐_Visit_Website-0A66C2?style=for-the-badge"></a>
 </p>
 
 ---
@@ -91,6 +93,24 @@ My personal **developer portfolio site**, showcasing projects, blogs, and tools 
 </p>
 
 ---
+<p align="center">
+  <a href="https://thewebpal.com/create-post/" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Blog_Post_Generator-React_|_Firebase_|_Gemini_API-00E5FF?style=for-the-badge" alt="AI Blog Generator"/>
+  </a>
+</p>
+
+### 🧠 [AI Blog Post Generator](https://thewebpal.com/create-post/)
+An **AI-powered content creation tool** built with **React, Firebase, and Gemini API**, helping bloggers generate SEO-friendly blog posts and featured images instantly.  
+💡 **Features:** AI text & image generation, auto-saving drafts, post publishing system  
+🛠 **Tech Stack:** React · Firebase · Gemini API · Cloudinary  
+
+<p align="center">
+  <a href="https://thewebpal.com/create-post/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
+  <a href="https://github.com/skmasum98/blogpostgenerator" target="_blank"><img src="https://img.shields.io/badge/-💻_Source_Code-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
 
 
 
@@ -110,9 +130,11 @@ My personal **developer portfolio site**, showcasing projects, blogs, and tools 
 
 <p align="center">
   <a href="https://thewebpal.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shaikhalmasum" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shaikhalmasum@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/skmasum/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:info@thewebpal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/skmasum98" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://wa.me/8801924810590" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+  <a href="https://discord.gg/skmasum98" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a
 </p>
 
 ---
