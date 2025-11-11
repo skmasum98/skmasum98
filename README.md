@@ -42,7 +42,7 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
 
 <table>
   <tr>
-    <!-- Project 1 -->
+    
     <td width="50%" align="center" valign="top">
       <h3>🧠 <a href="https://thewebpal.com/create-post/">AI Blog Post Generator</a></h3>
       <p>
@@ -55,7 +55,7 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
       </p>
     </td>
 
-    <!-- Project 2 -->
+    
     <td width="50%" align="center" valign="top">
       <h3>🎓 <a href="https://github.com/skmasum98/school-admin-dashboard">School Admin Dashboard</a></h3>
       <p>
@@ -69,7 +69,7 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
   </tr>
 
   <tr>
-    <!-- Project 3 -->
+    
     <td width="50%" align="center" valign="top">
       <h3>🌐 <a href="https://thewebpal.com/">The Web Pal – Portfolio</a></h3>
       <p>
@@ -81,7 +81,7 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
       </p>
     </td>
 
-    <!-- Project 4 -->
+   
     <td width="50%" align="center" valign="top">
       <h3>🖼️ <a href="https://github.com/skmasum98/photo-gallery">Dynamic Photo Gallery</a></h3>
       <p>
