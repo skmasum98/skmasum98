@@ -40,62 +40,60 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    
-    <td width="50%" align="center" valign="top">
-      <h3>🧠 <a href="https://thewebpal.com/create-post/">AI Blog Post Generator</a></h3>
-      <p>
-        <b>AI-powered content creation tool</b> built with <b>React, Firebase, and Gemini API</b>, helping bloggers generate SEO-friendly articles and images instantly.
-      </p>
-      <p>🛠 React · Firebase · Gemini API · Cloudinary</p>
-      <p>
-        <a href="https://thewebpal.com/create-post/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
-        <a href="https://github.com/skmasum98/ai-blog-post-generator" target="_blank"><img src="https://img.shields.io/badge/-💻_Code-181717?style=for-the-badge&logo=github"></a>
-      </p>
-    </td>
+<p align="center">
+  <a href="https://thewebpal.com/create-post/" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Blog_Post_Generator-React_|_Firebase_|_Gemini_API-00E5FF?style=for-the-badge" alt="AI Blog Generator"/>
+  </a>
+</p>
 
-    
-    <td width="50%" align="center" valign="top">
-      <h3>🎓 <a href="https://github.com/skmasum98/school-admin-dashboard">School Admin Dashboard</a></h3>
-      <p>
-        A complete <b>school management dashboard</b> to manage teachers, staff, exams, and notices efficiently.
-      </p>
-      <p>🛠 React · Firebase · Cloudinary</p>
-      <p>
-        <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank"><img src="https://img.shields.io/badge/-💻_Code-181717?style=for-the-badge&logo=github"></a>
-      </p>
-    </td>
-  </tr>
+### 🧠 [AI Blog Post Generator](https://thewebpal.com/create-post/)
+An **AI-powered content creation tool** built with **React, Firebase, and Gemini API**, helping bloggers generate SEO-friendly blog posts and featured images instantly.  
+💡 **Features:** AI text & image generation, auto-saving drafts, post publishing system  
+🛠 **Tech Stack:** React · Firebase · Gemini API · Cloudinary  
 
-  <tr>
-    
-    <td width="50%" align="center" valign="top">
-      <h3>🌐 <a href="https://thewebpal.com/">The Web Pal – Portfolio</a></h3>
-      <p>
-        My personal <b>developer portfolio site</b> built with <b>Astro + React</b>, showcasing projects, blogs, and tools.
-      </p>
-      <p>🛠 Astro · React · Firebase · TailwindCSS</p>
-      <p>
-        <a href="https://thewebpal.com" target="_blank"><img src="https://img.shields.io/badge/-🌐_Website-0A66C2?style=for-the-badge"></a>
-      </p>
-    </td>
-
-   
-    <td width="50%" align="center" valign="top">
-      <h3>🖼️ <a href="https://github.com/skmasum98/photo-gallery">Dynamic Photo Gallery</a></h3>
-      <p>
-        A <b>dynamic album-wise gallery</b> with admin functionality to upload, edit, and delete photos using Firebase and Cloudinary.
-      </p>
-      <p>🛠 React · Firebase · Cloudinary</p>
-      <p>
-        <a href="https://github.com/skmasum98/photo-gallery" target="_blank"><img src="https://img.shields.io/badge/-💻_Code-181717?style=for-the-badge&logo=github"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://thewebpal.com/create-post/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
+  <a href="https://github.com/skmasum98/ai-blog-post-generator" target="_blank"><img src="https://img.shields.io/badge/-💻_Source_Code-181717?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/School_Admin_Dashboard-React_|_Firebase_|_Cloudinary-7C3AED?style=for-the-badge" alt="School Admin Dashboard"/>
+  </a>
+</p>
+
+### 🎓 [School Management System](https://madhudia.edu.bd/)
+A full-featured **school management System** for managing teachers, staff, exam routines, and gallery content.  
+📦 **Modules:** Teachers · Staff · Governing Body · Exam Results · Photo Gallery  
+🛠 **Tech Stack:** React · Firebase · Cloudinary  
+
+<p align="center">
+  <a href="https://github.com/skmasum98/school-admin-dashboard" target="_blank"><img src="https://img.shields.io/badge/-💻_View_Project-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://thewebpal.com" target="_blank">
+    <img src="https://img.shields.io/badge/The_Web_Pal-Portfolio_Site_|_Astro_|_React-00BFA6?style=for-the-badge" alt="Portfolio Site"/>
+  </a>
+</p>
+
+### 🌐 [The Web Pal – Portfolio](https://thewebpal.com)
+My personal **developer portfolio site**, showcasing projects, blogs, and tools — built for performance and SEO with Astro and React.  
+🛠 **Tech Stack:** Astro · React · Firebase · TailwindCSS  
+✨ **Features:** Blog system · AI tool integration · Responsive design  
+
+<p align="center">
+  <a href="https://thewebpal.com" target="_blank"><img src="https://img.shields.io/badge/-🌐_Visit_Website-0A66C2?style=for-the-badge"></a>
+</p>
+
+---
+
+
+
 
 
 
