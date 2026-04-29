@@ -42,12 +42,12 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
 ---
 
 <p align="center">
-  <a href="https://ic-blog.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/FULL_STACK_BLOG_APPLICATION-Next.js_16_•_Node.js_•_Express_•_MongoDB_•_Cloudinary-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack Blog Application"/>
+  <a href="https://drchamber.bd/" target="_blank">
+    <img src="https://img.shields.io/badge/Doctor Chember Management System-Next.js_16_•_Node.js_•_Express_•_MongoDB_•_Cloudinary-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack Blog Application"/>
   </a>
 </p>
 
-### 🧠 [Full Stack Blog Application](https://ic-blog.onrender.com/)
+### 🧠 [Doctor Chember Management System](https://drchamber.bd/)
 A **Doctor Chember Management System** built with **React, Next.js 16, Node.js, Express, MySQL, and Cloudinary**, featuring secure authentication, image uploads, and real-time content management.  
 💡 **Features:** Prescription Management, Serial, Patent Record, Staff, Ai Automation,   
 🛠 **Tech Stack:**  React · Next.js · Node.js · Express · MySQL · Cloudinary  
