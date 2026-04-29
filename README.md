@@ -48,6 +48,25 @@ I specialize in **React, Next.js, Node.js, Express, Firebase**, and **Cloudinary
 </p>
 
 ### 🧠 [Full Stack Blog Application](https://ic-blog.onrender.com/)
+A **Doctor Chember Management System** built with **React, Next.js 16, Node.js, Express, MySQL, and Cloudinary**, featuring secure authentication, image uploads, and real-time content management.  
+💡 **Features:** Prescription Management, Serial, Patent Record, Staff, Ai Automation,   
+🛠 **Tech Stack:**  React · Next.js · Node.js · Express · MySQL · Cloudinary  
+
+<p align="center">
+  <a href="https://drchember.bd/" target="_blank"><img src="https://img.shields.io/badge/-🔗_Live_Demo-0A66C2?style=for-the-badge"></a>
+  <a href="https://github.com/skmasum98/fullstack-blog-app" target="_blank"><img src="https://img.shields.io/badge/-💻_Source_Code-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+
+---
+
+<p align="center">
+  <a href="https://ic-blog.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FULL_STACK_BLOG_APPLICATION-Next.js_16_•_Node.js_•_Express_•_MongoDB_•_Cloudinary-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack Blog Application"/>
+  </a>
+</p>
+
+### 🧠 [Full Stack Blog Application](https://ic-blog.onrender.com/)
 A **modern full-stack blogging platform** built with **Next.js 16, Node.js, Express, MongoDB, and Cloudinary**, featuring secure authentication, image uploads, and real-time content management.  
 💡 **Features:** User authentication, post management, image handling, and responsive UI  
 🛠 **Tech Stack:** Next.js · Node.js · Express · MongoDB · Cloudinary  
